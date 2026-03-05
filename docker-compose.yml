@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+
+  web1:
+    image: ubuntu:22.04
+    container_name: web1
+    command: sleep infinity
+
+  web2:
+    image: ubuntu:22.04
+    container_name: web2
+    command: sleep infinity
