@@ -1,7 +1,5 @@
-# Terraform
 .terraform/
 *.tfstate
 *.tfstate.*
-.terraform.lock.hcl
-.terraform/
-terraform/.terraform/
+crash.log
+logs/
